@@ -1,0 +1,16 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+
+# Ignore build directories
+target/
+bin/
+out/
+
+# Ignore local database files
+*.db
+*.sqlite
